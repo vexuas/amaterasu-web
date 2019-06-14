@@ -1,57 +1,18 @@
 # amaterasu-web
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Official website for amaterasu. Planning for documentation of discord app and having a dedicated web app.
 
-## Prerequisites
+Timeline: Mid July for v1.0 to be deployed and then keep adding new features after that. Latter not as important but aiming for that first version to be on time
 
-You will need the following things properly installed on your computer.
+**v1.0**
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+- Home page: Discord documentation
+- Main Eidolon page: List of Eidolons and search function
+- Specific Eidolon pages: Descriptions, star buffs, prayers
 
-## Installation
+**Features to be added**
 
-* `git clone <repository-url>` this repository
-* `cd amaterasu-web`
-* `npm install`
-
-## Running / Development
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint:hbs`
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+- Archaeology page
+- Fish Kings page
+- Instance spawns page
+- More eido stats
